@@ -8,6 +8,6 @@ This project will happen in several major stages:
 * Development and implementation of control system for stable flight and propulsive landing
 
 # Project Challenges
-Rocketry - At the outset of this project, I know almost nothing about rocketry other than what a background in engineering affords.  There will be a significant learning curve as I will likely be designing and building a small rocket engine.  
-Safety - Rockets are dangerous.  
-Control System - This will be the most complex control system I've implemented and the control system has limited control authority.  I may experiment with a neural network like the RL Pendulum depending on how non-linear the system is.  
+**Rocketry** - At the outset of this project, I know almost nothing about rocketry other than what a background in engineering affords.  There will be a significant learning curve as I will likely be designing and building a small rocket engine.  
+**Safety** - Rockets are dangerous.  
+**Control System** - This will be the most complex control system I've implemented and the control system has limited control authority.  I may experiment with a neural network like the RL Pendulum depending on how non-linear the system is.  
