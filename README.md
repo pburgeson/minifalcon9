@@ -14,10 +14,10 @@ This project will happen in several major pieces:
 
 # Project Roadmap
 Since this is a large project and I am one person, I will be splitting the project up into smaller pieces.
-1. Flight of a non-kit model rocket with data logging and telemtry (development in progress)
-2. Flight of model rocket with Thurst Vector Control (not yet started)
+1. Flight of a non-kit model rocket with data logging and telemetry (development in progress)
+2. Flight of model rocket with Thrust Vector Control (not yet started)
 3. Development and testing of liquid rocket engine at model scale
-4. Integraton of final flight vehicle
+4. Integration of final flight vehicle
 
 # Project Updates
 Updates will be done via the project wiki.  I will (hopefully) be keeping a design journal there.
